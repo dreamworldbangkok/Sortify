@@ -1,4 +1,6 @@
 # 📂 Sortify
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![License](https://img.shields.io/github/license/aRezaGit/Sortify)
 
 **Sortify** is a powerful and lightweight Python CLI tool designed to organize cluttered directories instantly. It scans a target folder and categorizes files into subfolders (Images, Videos, Docs, etc.) based on their extensions.
 
